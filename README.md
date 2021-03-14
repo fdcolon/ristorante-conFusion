@@ -142,12 +142,12 @@ If you would like to add a comment to a dish, you click/tap on the `Submit Comme
 
 Next, fill the form and click on the `Submit` button.
 
-![](https://github.com/fdcolon/ristorante-conFusion/blob/main/public/screenshots/submit-comments-web-01.png)  
+![](https://github.com/fdcolon/ristorante-conFusion/blob/main/public/screenshots/submit-comments-web-02.png)  
 **Figure 11** - Submit Comments - Filling form (web view)
 
 Finally, look for the added comment at the end of the **Comments** list.
 
-![](https://github.com/fdcolon/ristorante-conFusion/blob/main/public/screenshots/submit-comments-web-01.png)  
+![](https://github.com/fdcolon/ristorante-conFusion/blob/main/public/screenshots/submit-comments-web-03.png)  
 **Figure 12** - Submit Comments - Comment added (web view)
 
 For the mobile version, the views will look as following:
@@ -191,7 +191,7 @@ For the mobile version, the view will look as following:
 
 Once you click/tap on the `Send Feedback` button, it will be displayed an `Alert Box` with the information you provided.
 
-<img src="https://github.com/fdcolon/ristorante-conFusion/blob/main/public/screenshots/contact-us-web-03.png" width="300">
+<img src="https://github.com/fdcolon/ristorante-conFusion/blob/main/public/screenshots/contact-us-web-03.png" height="300">
 
 **Figure 18** - Contact Us - Alert Box
 
@@ -199,7 +199,8 @@ Once you click/tap on the `Send Feedback` button, it will be displayed an `Alert
 
 This section was developed only testing how to handle the data, but it is not used to login into the website.
 
-![](https://github.com/fdcolon/ristorante-conFusion/blob/main/public/screenshots/login-web-01.png)  
+<img src="https://github.com/fdcolon/ristorante-conFusion/blob/main/public/screenshots/login-web-01.png" height="300">
+
 **Figure 19** - Login (web view)
 
 For the mobile version, the view will look as following:
@@ -210,7 +211,7 @@ For the mobile version, the view will look as following:
 
 If you provide an email and a password and click/tap on the `Login` button, it will be displayed an `Alert Box` with the information you provided.
 
-<img src="https://github.com/fdcolon/ristorante-conFusion/blob/main/public/screenshots/login-web-02.png" width="300">
+<img src="https://github.com/fdcolon/ristorante-conFusion/blob/main/public/screenshots/login-web-02.png" height="300">
 
 **Figure 21** - Login - Alert Box
 
