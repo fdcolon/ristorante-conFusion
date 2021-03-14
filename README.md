@@ -199,7 +199,7 @@ Once you click/tap on the `Send Feedback` button, it will be displayed an `Alert
 
 This section was developed only testing how to handle the data, but it is not used to login into the website.
 
-<img src="https://github.com/fdcolon/ristorante-conFusion/blob/main/public/screenshots/login-web-01.png" width="500">
+<img src="https://github.com/fdcolon/ristorante-conFusion/blob/main/public/screenshots/login-web-01.png" width="400">
 
 **Figure 19** - Login (web view)
 
