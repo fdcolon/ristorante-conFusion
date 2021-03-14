@@ -73,15 +73,15 @@ Once the app is running, the first view it the **Home** page where you will find
 This website is responsive, so if you try it in a mobile device or if you use the `Chrome Developer Tools` to emulate a mobile device, you will see how it looks.
 
 <span style="width: 100%; display: flex; justify-content: space-between;" markdown="1">
-  <img src="https://github.com/fdcolon/ristorante-conFusion/blob/main/public/screenshots/home-mobile-01.png" height="400">
-  <img src="https://github.com/fdcolon/ristorante-conFusion/blob/main/public/screenshots/home-mobile-02.png" height="400">
+  <img src="https://github.com/fdcolon/ristorante-conFusion/blob/main/public/screenshots/home-mobile-01.png" height="500">
+  <img src="https://github.com/fdcolon/ristorante-conFusion/blob/main/public/screenshots/home-mobile-02.png" height="500">
 </span>
 
 **Figure 2** - Home Page (mobile view)
 
 > :warning: In the mobile version, you need to tap on the hamburguer icon (**☰**) to display/hide the navigation menu.
 
-<img src="https://github.com/fdcolon/ristorante-conFusion/blob/main/public/screenshots/home-mobile-03.png" height="400">
+<img src="https://github.com/fdcolon/ristorante-conFusion/blob/main/public/screenshots/home-mobile-03.png" height="500">
 
 **Figure 3** - Home Page - Navigation menu (mobile view)
 
@@ -95,8 +95,8 @@ This section contains a bief history of the restaurante, some facts and the Corp
 For the mobile version, the view will look as following:
 
 <span style="width: 100%; display: flex; justify-content: space-between;" markdown="1">
-  <img src="https://github.com/fdcolon/ristorante-conFusion/blob/main/public/screenshots/about-us-mobile-01.png" height="400">
-  <img src="https://github.com/fdcolon/ristorante-conFusion/blob/main/public/screenshots/about-us-mobile-02.png" height="400">
+  <img src="https://github.com/fdcolon/ristorante-conFusion/blob/main/public/screenshots/about-us-mobile-01.png" height="500">
+  <img src="https://github.com/fdcolon/ristorante-conFusion/blob/main/public/screenshots/about-us-mobile-02.png" height="500">
 </span>
 
 **Figure 5** - About Us (mobile view)
@@ -111,8 +111,8 @@ This section contains the restaurante menu (4 dishes). To see the dish details a
 For the mobile version, the view will look as following:
 
 <span style="width: 100%; display: flex; justify-content: space-between;" markdown="1">
-  <img src="https://github.com/fdcolon/ristorante-conFusion/blob/main/public/screenshots/menu-mobile-01.png" height="400">
-  <img src="https://github.com/fdcolon/ristorante-conFusion/blob/main/public/screenshots/menu-mobile-02.png" height="400">
+  <img src="https://github.com/fdcolon/ristorante-conFusion/blob/main/public/screenshots/menu-mobile-01.png" height="500">
+  <img src="https://github.com/fdcolon/ristorante-conFusion/blob/main/public/screenshots/menu-mobile-02.png" height="500">
 </span>
 
 **Figure 7** - Menu (mobile view)
@@ -127,8 +127,8 @@ When you click/tap on a dish, it will display the dish details and comments give
 For the mobile version, the view will look as following:
 
 <span style="width: 100%; display: flex; justify-content: space-between;" markdown="1">
-  <img src="https://github.com/fdcolon/ristorante-conFusion/blob/main/public/screenshots/menu-details-mobile-01.png" height="400">
-  <img src="https://github.com/fdcolon/ristorante-conFusion/blob/main/public/screenshots/menu-details-mobile-02.png" height="400">
+  <img src="https://github.com/fdcolon/ristorante-conFusion/blob/main/public/screenshots/menu-details-mobile-01.png" height="500">
+  <img src="https://github.com/fdcolon/ristorante-conFusion/blob/main/public/screenshots/menu-details-mobile-02.png" height="500">
 </span>
 
 **Figure 9** - Dish Details (mobile view)
@@ -153,9 +153,9 @@ Finally, look for the added comment at the end of the **Comments** list.
 For the mobile version, the views will look as following:
 
 <span style="width: 100%; display: flex; justify-content: space-between;" markdown="1">
-  <img src="https://github.com/fdcolon/ristorante-conFusion/blob/main/public/screenshots/submit-comments-mobile-01.png" height="400">
-  <img src="https://github.com/fdcolon/ristorante-conFusion/blob/main/public/screenshots/submit-comments-mobile-02.png" height="400">
-  <img src="https://github.com/fdcolon/ristorante-conFusion/blob/main/public/screenshots/submit-comments-mobile-03.png" height="400">
+  <img src="https://github.com/fdcolon/ristorante-conFusion/blob/main/public/screenshots/submit-comments-mobile-01.png" height="500">
+  <img src="https://github.com/fdcolon/ristorante-conFusion/blob/main/public/screenshots/submit-comments-mobile-02.png" height="500">
+  <img src="https://github.com/fdcolon/ristorante-conFusion/blob/main/public/screenshots/submit-comments-mobile-03.png" height="500">
 </span>
 
 **Figure 13** - Submit Comments (mobile view)
@@ -172,8 +172,8 @@ This section contains some fake info for contacting the restaurant and a feedbac
 For the mobile version, the views will look as following:
 
 <span style="width: 100%; display: flex; justify-content: space-between;" markdown="1">
-  <img src="https://github.com/fdcolon/ristorante-conFusion/blob/main/public/screenshots/contact-us-mobile-01.png" height="400">
-  <img src="https://github.com/fdcolon/ristorante-conFusion/blob/main/public/screenshots/contact-us-mobile-02.png" height="400">
+  <img src="https://github.com/fdcolon/ristorante-conFusion/blob/main/public/screenshots/contact-us-mobile-01.png" height="500">
+  <img src="https://github.com/fdcolon/ristorante-conFusion/blob/main/public/screenshots/contact-us-mobile-02.png" height="500">
 </span>
 
 **Figure 15** - Contact Us (mobile view)
@@ -185,13 +185,13 @@ If you would like to submit a feedback, just fill the `Feedback` form and click 
 
 For the mobile version, the view will look as following:
 
-<img src="https://github.com/fdcolon/ristorante-conFusion/blob/main/public/screenshots/contact-us-mobile-03.png" height="400">
+<img src="https://github.com/fdcolon/ristorante-conFusion/blob/main/public/screenshots/contact-us-mobile-03.png" height="500">
 
 **Figure 17** - Contact Us - Filling Feedback Form (mobile view)
 
 Once you click/tap on the `Send Feedback` button, it will be displayed an `Alert Box` with the information you provided.
 
-<img src="https://github.com/fdcolon/ristorante-conFusion/blob/main/public/screenshots/contact-us-web-03.png" height="300">
+<img src="https://github.com/fdcolon/ristorante-conFusion/blob/main/public/screenshots/contact-us-web-03.png" height="250">
 
 **Figure 18** - Contact Us - Alert Box
 
@@ -199,13 +199,13 @@ Once you click/tap on the `Send Feedback` button, it will be displayed an `Alert
 
 This section was developed only testing how to handle the data, but it is not used to login into the website.
 
-<img src="https://github.com/fdcolon/ristorante-conFusion/blob/main/public/screenshots/login-web-01.png" height="300">
+<img src="https://github.com/fdcolon/ristorante-conFusion/blob/main/public/screenshots/login-web-01.png" width="500">
 
 **Figure 19** - Login (web view)
 
 For the mobile version, the view will look as following:
 
-<img src="https://github.com/fdcolon/ristorante-conFusion/blob/main/public/screenshots/login-mobile-01.png" height="400">
+<img src="https://github.com/fdcolon/ristorante-conFusion/blob/main/public/screenshots/login-mobile-01.png" height="500">
 
 **Figure 20** - Login (mobile view)
 
